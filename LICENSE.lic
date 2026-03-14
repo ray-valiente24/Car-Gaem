@@ -1,0 +1,61 @@
+ALL RIGHTS RESERVED © 2026
+
+The Car Gaem Alpha Edition is a project created by Pizeltray Studios with assistance from ChatGPT and Gemini.
+
+This project was developed using the following IDEs:
+-IntelliJ IDEA
+-Eclipse
+-Notepad
+
+Ownership of all game systems, mechanics, structure, launcher, music, compiled classes, and source code belongs fully to Pizeltray Studios.
+
+
+You are NOT permitted to modify:
+
+Source code
+
+Game logic
+
+Launcher files
+
+Compiled classes
+
+Project structure
+
+Redistribution of edited versions of the game is NOT allowed.
+
+The ONLY files you are permitted to modify are the textures listed below:
+
+player.png
+
+
+However, replacement textures must come exclusively from the /textures folder provided with the game.
+
+You may NOT import, create, or use textures from outside this folder.
+
+If you modify these textures, they must be replaced in ALL of the following locations:
+
+/src/assets
+
+/bin/assets
+
+This version of the game does NOT support mods.
+Modifying any files outside the allowed textures may cause the game to break and is strictly prohibited by Pizeltray Studios.
+
+---
+
+Regional Restriction Notice
+
+This version of the game is banned in Australia and Israel from:
+
+15 March 2026 - 15 March 2046
+
+Distribution, use, or operation of this version of the game within Australia during this period is not permitted.
+
+---
+
+All intellectual property remains owned by Pizeltray Studios.
+
+By using this software, you agree to respect and accept these terms.
+
+All Rights Reserved © 2026 - Pizeltray Studios
